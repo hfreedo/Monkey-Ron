@@ -1,0 +1,15 @@
+{
+  "zip": "C:\\Users\\Soul Hoshi\\Documents\\ChatGPT\\PAL - Desarrollo de videojuegos\\Entregas\\Actuales\\Monkey_Ron\\Monkey_Ron_actual.zip",
+  "sha256_zip": "1bf43e24fc34f91fce0c156ad2ac61d262fb25fab4a2469d88b38d772c1ddf72",
+  "archivos": 85,
+  "assets": 54,
+  "audio_decodificado": 18,
+  "extraccion": "C:\\Users\\Soul Hoshi\\Documents\\ChatGPT\\PAL - Desarrollo de videojuegos\\Entregas\\Historial\\Verificaciones_temporales\\ron-b847f0ad\\Monkey_Ron_demo_v5",
+  "hashes_extraidos": "PASS",
+  "capx_extraido_zip_xml": "PASS",
+  "suelos_posiciones_y_comportamientos": "conservados",
+  "tipos_colision_originales": "conservados",
+  "original_alumno": "sin cambios",
+  "preview_extraida": "12 pantallas PASS",
+  "limite": "No ejecutado ni exportado desde Construct 2."
+}

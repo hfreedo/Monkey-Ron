@@ -1,0 +1,62 @@
+[
+  {
+    "asset": "Interfaz/panel_pizarra.png",
+    "incorporado_capx": true,
+    "sha256": "59403be357db1a239164a736fbcaf10fda385dc3b0ac700be81be028ce280e87"
+  },
+  {
+    "asset": "Interfaz/boton_pizarra_vacio.png",
+    "incorporado_capx": true,
+    "sha256": "94fcc891041b5e7756498c365b06c9a5ed560cc9209c35cefd82a4d33f50ff30"
+  },
+  {
+    "asset": "HUD/corazon.png",
+    "incorporado_capx": true,
+    "sha256": "fc911121ba439f78fbd2399d1055895e1f9287a6f04c9384f640fb0b40e006f3"
+  },
+  {
+    "asset": "Coleccionables/moneda.png",
+    "incorporado_capx": true,
+    "sha256": "7ae7e7090680bfc19d0cfb333eec1ef04eadc5e11685947041d16c5e2ca0542c"
+  },
+  {
+    "asset": "Efectos/polvo_salto.png",
+    "incorporado_capx": true,
+    "sha256": "7af8fff101a9c338bfc5dc9536209d528ca6560f79834f31e1a3d481c1617703"
+  },
+  {
+    "asset": "Efectos/destello_moneda.png",
+    "incorporado_capx": true,
+    "sha256": "6f2d6acb2823b9f665f3bc8dd2a2fa73d2c9919593b0ac535d3d4b667811165e"
+  },
+  {
+    "asset": "Meta/bandera_meta.png",
+    "incorporado_capx": true,
+    "sha256": "11cf335d31c5f9b5e21760ade9fbde65ea192f89f5858fdc349418d125787caf"
+  },
+  {
+    "asset": "Fondos/patio_jugable.png",
+    "incorporado_capx": true,
+    "sha256": "b080e776e04835c82a6119919cfbdd2e5c58fb5de96ccc71495b52b61b9a1ee3"
+  },
+  {
+    "asset": "Personaje/quieto.png",
+    "incorporado_capx": true,
+    "sha256": "32d90022c770f4b23fedd6a26ee2fe82ea713a4e48369dd05dba165daacdf225"
+  },
+  {
+    "asset": "Personaje/correr.png",
+    "incorporado_capx": true,
+    "sha256": "aa55944255cb60f356a4bd677ec89e52d49f90c1b7aaa93f29f27349e10d3b2e"
+  },
+  {
+    "asset": "Personaje/saltar.png",
+    "incorporado_capx": true,
+    "sha256": "dcbd7158125f9a40319b9b71513bcd850d49caa97d97a1e172016f17f8b2f817"
+  },
+  {
+    "asset": "Obstaculos/charco_senalizado.png",
+    "incorporado_capx": true,
+    "sha256": "b3f7b73e671860900c97011ce3e78b43dfd5877d304fe791926d7e549e36cc1b"
+  }
+]

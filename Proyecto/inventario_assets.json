@@ -1,0 +1,482 @@
+[
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_coin.m4a",
+    "bytes": 3394,
+    "sha256": "a82b3421469fa3b44a163869651d4f7bae4f761a3b3305163e5646548db7a186",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_coin.ogg",
+    "bytes": 4475,
+    "sha256": "e7ecac30e0773305d34b085b1875a5a8b6061e1875b3c316d7d3af82c9254b4a",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_coin.wav",
+    "bytes": 21212,
+    "sha256": "b05a1ad2a9474a4565d4dbe104fb97d94dc5112022831608a02634a93f3fe230",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_damage.m4a",
+    "bytes": 3803,
+    "sha256": "cb044539be1a9eba663f5c503ebfff95a2e5550b6940123fbd4ec51719ed2747",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_damage.ogg",
+    "bytes": 4346,
+    "sha256": "6f091ed69d0176b67d026af0616edcec27340b8645c9274e0b9f8f6ef99bd257",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_damage.wav",
+    "bytes": 26504,
+    "sha256": "95a6744ee50c44f7e63d9b57bdaf8d98f773e1dd540b48773bb8e01324c29944",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_jump.m4a",
+    "bytes": 2560,
+    "sha256": "f03aa294ea0ed60f0c3974306393a7e16b44c1ea6a2d1819d086e471d352327c",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_jump.ogg",
+    "bytes": 4073,
+    "sha256": "dff7d981944d17255664bfdb28e6a2adeed8be192603eac715a71d02420ee59e",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_jump.wav",
+    "bytes": 14156,
+    "sha256": "ce8934efbd923848c7dcc4d7dcd1c88d1872e5b00440bbe199de50631a0f2e33",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_land.m4a",
+    "bytes": 2222,
+    "sha256": "ccd5cba466cf9e4d1a0aa76385efd2de20f9acc996015e690b2fe34ad83fd2b6",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_land.ogg",
+    "bytes": 3914,
+    "sha256": "f8d8514d5ae0baeeb772efcd4a8acd8b76c0ccebf44bd4ac702e863093dd61c9",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_land.wav",
+    "bytes": 10628,
+    "sha256": "bc2f8486c2d9b8b09234fd7248f4f0b1951a20341b547d236f67b3584a9b4176",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_lose.m4a",
+    "bytes": 9150,
+    "sha256": "d80ec02322fc96317b1cc8e2363ca4d4cd3f690f74a1fc4a32c2d6abcb80817f",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_lose.ogg",
+    "bytes": 6188,
+    "sha256": "398193d47cc333569f103f0432d90268329e03c27f15972b62c6b15b0adb1e5d",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_lose.wav",
+    "bytes": 79424,
+    "sha256": "525bb4e3177d7ad6b898fb5480bc2e4ee4f2facdad9674875631903218e7816b",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_win.m4a",
+    "bytes": 11878,
+    "sha256": "9bae07bb2d1029b681b24bbe356cfb51fff3cae2437a5e499573b6c69b8a3fbd",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_win.ogg",
+    "bytes": 7577,
+    "sha256": "d87dab6d94920e52d7e08a92f8f74033a51ece6278d8ae67c69f80885e0a7060",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Audio/ron_win.wav",
+    "bytes": 105884,
+    "sha256": "aa07c6a7f8c2f6ba22e4fcf29d76c76110b6391213f282a8470a0ee6b7807901",
+    "decodificacion": "PASS"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Coleccionables/moneda.png",
+    "bytes": 1164171,
+    "sha256": "7ae7e7090680bfc19d0cfb333eec1ef04eadc5e11685947041d16c5e2ca0542c",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Efectos/destello_moneda.png",
+    "bytes": 356333,
+    "sha256": "6f2d6acb2823b9f665f3bc8dd2a2fa73d2c9919593b0ac535d3d4b667811165e",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Efectos/polvo_salto.png",
+    "bytes": 944974,
+    "sha256": "7af8fff101a9c338bfc5dc9536209d528ca6560f79834f31e1a3d481c1617703",
+    "dimensiones": [
+      1536,
+      1024
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Fondos/patio_jugable.png",
+    "bytes": 1704051,
+    "sha256": "b080e776e04835c82a6119919cfbdd2e5c58fb5de96ccc71495b52b61b9a1ee3",
+    "dimensiones": [
+      1672,
+      941
+    ],
+    "modo": "RGB",
+    "transparencia": false
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/HUD/corazon.png",
+    "bytes": 700422,
+    "sha256": "fc911121ba439f78fbd2399d1055895e1f9287a6f04c9384f640fb0b40e006f3",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Interfaz/boton_pizarra_vacio.png",
+    "bytes": 1599399,
+    "sha256": "94fcc891041b5e7756498c365b06c9a5ed560cc9209c35cefd82a4d33f50ff30",
+    "dimensiones": [
+      2171,
+      724
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Interfaz/panel_pizarra.png",
+    "bytes": 1763421,
+    "sha256": "59403be357db1a239164a736fbcaf10fda385dc3b0ac700be81be028ce280e87",
+    "dimensiones": [
+      1536,
+      1024
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Meta/bandera_meta.png",
+    "bytes": 1176361,
+    "sha256": "11cf335d31c5f9b5e21760ade9fbde65ea192f89f5858fdc349418d125787caf",
+    "dimensiones": [
+      1024,
+      1536
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Obstaculos/charco_senalizado.png",
+    "bytes": 443616,
+    "sha256": "b3f7b73e671860900c97011ce3e78b43dfd5877d304fe791926d7e549e36cc1b",
+    "dimensiones": [
+      2172,
+      724
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Personaje/correr.png",
+    "bytes": 678813,
+    "sha256": "aa55944255cb60f356a4bd677ec89e52d49f90c1b7aaa93f29f27349e10d3b2e",
+    "dimensiones": [
+      887,
+      1774
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Personaje/quieto.png",
+    "bytes": 747357,
+    "sha256": "32d90022c770f4b23fedd6a26ee2fe82ea713a4e48369dd05dba165daacdf225",
+    "dimensiones": [
+      887,
+      1774
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Demo_v2/Personaje/saltar.png",
+    "bytes": 641657,
+    "sha256": "dcbd7158125f9a40319b9b71513bcd850d49caa97d97a1e172016f17f8b2f817",
+    "dimensiones": [
+      887,
+      1774
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Fuentes/LuckiestGuy/LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Fuentes/LuckiestGuy/luckiest-guy.css",
+    "bytes": 97901,
+    "sha256": "be9bdcd7ad7171fea74e7955a082028edc901a56edd2231feca1c04c6fe99ac1"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Fuentes/LuckiestGuy/LuckiestGuy-Regular.ttf",
+    "bytes": 73320,
+    "sha256": "cfbdd68a039f92df51cf3721506af6242e64594c6325fe0bedbeff3fe385d980"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Fuentes/LuckiestGuy/METADATA.pb",
+    "bytes": 709,
+    "sha256": "79e13dc76e9b06b87d58f3ed018259c49f6356ec88cc831ae99200c7ac05bf16"
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Materiales/borde_cesped.png",
+    "bytes": 1280688,
+    "sha256": "34fb4825004eb0ce81a61cf03f04887642efb88ae85007c8ae600f674c097a13",
+    "dimensiones": [
+      2172,
+      724
+    ],
+    "modo": "RGB",
+    "transparencia": false
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Materiales/ladrillo_terracota.png",
+    "bytes": 1308035,
+    "sha256": "b8111881ffe7f47922dc732586c3547b6ae171c7bd266df812954b5c92c8e84d",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGB",
+    "transparencia": false
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Materiales/piedra_clara.png",
+    "bytes": 1295522,
+    "sha256": "022a75a1933e83a85923b11e828ab06d39ea03e3050231083229ed71eac262f6",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGB",
+    "transparencia": false
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Materiales/tierra_roca.png",
+    "bytes": 1358548,
+    "sha256": "f648b48c62081367b12f0eeea035936c723b3285ff6d9ab08fa463a1299bacb8",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGB",
+    "transparencia": false
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Menu/Animaciones/Monedas/000.png",
+    "bytes": 4232,
+    "sha256": "9c9636e2e5da14c4d53ba87c061539750b23d5f49de700a28b33bb0119988070",
+    "dimensiones": [
+      200,
+      200
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Menu/Animaciones/Monedas/001.png",
+    "bytes": 4301,
+    "sha256": "0ae2f6e33a307ba8faee49fd3b9cec74b1960840bee18e7dfbbdffc3cc8c4a64",
+    "dimensiones": [
+      200,
+      200
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Menu/Animaciones/Monedas/002.png",
+    "bytes": 3908,
+    "sha256": "73e61a0a46588d027930280d5d9cee33b1c9bb1c785903c56dfa3b21092a53fd",
+    "dimensiones": [
+      200,
+      200
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Menu/Animaciones/Monedas/003.png",
+    "bytes": 3114,
+    "sha256": "d3a0fcd6d451e22b2518dcf365117b505740d9a296568c161a56599516b67de5",
+    "dimensiones": [
+      200,
+      200
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Menu/Animaciones/Monedas/004.png",
+    "bytes": 2364,
+    "sha256": "973a6349b46c7ec866394d07bda75f5a684d3953b461c34198105ac389773b96",
+    "dimensiones": [
+      200,
+      200
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Menu/Animaciones/Monedas/005.png",
+    "bytes": 1822,
+    "sha256": "44389113344ce69d6ff312939953cc362d03b75ca546c24416467b6a81d79311",
+    "dimensiones": [
+      200,
+      200
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Menu/Animaciones/Monedas/006.png",
+    "bytes": 2266,
+    "sha256": "8bb12a05f5eaa887e1536aeee2b26d83fa87716f6991ae40cab0a7477807ce1f",
+    "dimensiones": [
+      200,
+      200
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Menu/Animaciones/Monedas/007.png",
+    "bytes": 3442,
+    "sha256": "e66e6cfac4cc5f223284a7add507cb1b80f99ec9bb46a75b6527c0383b71196e",
+    "dimensiones": [
+      200,
+      200
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Menu/Animaciones/Monedas/008.png",
+    "bytes": 4007,
+    "sha256": "9ee412be0a5101e90af4d74631b55195010990eb27ca6922febc7698390fc2e2",
+    "dimensiones": [
+      200,
+      200
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Menu/Animaciones/Monedas/009.png",
+    "bytes": 4388,
+    "sha256": "3133c8c623b4e5115a3cf486cf4c040f1ef2184e6c7da4950627aabb55f7f050",
+    "dimensiones": [
+      200,
+      200
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Menu/Botones/como_jugar.png",
+    "bytes": 1694014,
+    "sha256": "52b6df89d1122d33acb0f05a480773bdbf19079613c51dc581beff722b5f730d",
+    "dimensiones": [
+      2172,
+      724
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Menu/Botones/creditos.png",
+    "bytes": 1685441,
+    "sha256": "587373866b3c16b54c6911b3df7be8b491cb06cd3c311a02f01ca5776e61ed65",
+    "dimensiones": [
+      2172,
+      724
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Menu/Botones/jugar.png",
+    "bytes": 1868136,
+    "sha256": "2e12b2ccc8bb354e3dc30e89d623476cdce262ef52ac7b2c4821a0da88548f35",
+    "dimensiones": [
+      2172,
+      724
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Menu/Fondos/fondo.png",
+    "bytes": 2471075,
+    "sha256": "a1b969d4167e22dd55516298786ce51ad1bf16b0e45b05ea366583904fe495d6",
+    "dimensiones": [
+      1672,
+      941
+    ],
+    "modo": "RGB",
+    "transparencia": false
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Menu/Personajes/personaje.png",
+    "bytes": 1296317,
+    "sha256": "fe43ff2ed9fc7f8aba1454007c2f73645a818061be6b8439b9fb0a517cac8256",
+    "dimensiones": [
+      1122,
+      1402
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  },
+  {
+    "archivo": "Assets/Monkey_Ron/Menu/Titulos/titulo.png",
+    "bytes": 1728793,
+    "sha256": "c3b1185e738ca58e86c411725f584d4c6329e11b4ce4a52b7e1b8297f8a39688",
+    "dimensiones": [
+      1536,
+      1024
+    ],
+    "modo": "RGBA",
+    "transparencia": true
+  }
+]

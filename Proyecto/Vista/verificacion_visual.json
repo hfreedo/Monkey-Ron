@@ -1,0 +1,78 @@
+{
+  "alcance": "Composiciones HTML estáticas del CAPX; no ejecuta Construct 2.",
+  "checks": [
+    {
+      "screen": "juego",
+      "images": 65,
+      "broken": [],
+      "overflow": []
+    },
+    {
+      "screen": "inicio",
+      "images": 64,
+      "broken": [],
+      "overflow": []
+    },
+    {
+      "screen": "pausa",
+      "images": 70,
+      "broken": [],
+      "overflow": []
+    },
+    {
+      "screen": "victoria",
+      "images": 66,
+      "broken": [],
+      "overflow": []
+    },
+    {
+      "screen": "derrota",
+      "images": 66,
+      "broken": [],
+      "overflow": []
+    },
+    {
+      "screen": "confirmar",
+      "images": 66,
+      "broken": [],
+      "overflow": []
+    },
+    {
+      "screen": "menu",
+      "images": 10,
+      "broken": [],
+      "overflow": []
+    },
+    {
+      "screen": "ayuda",
+      "images": 12,
+      "broken": [],
+      "overflow": []
+    },
+    {
+      "screen": "creditos",
+      "images": 12,
+      "broken": [],
+      "overflow": []
+    },
+    {
+      "screen": "tramo_final",
+      "images": 112,
+      "broken": [],
+      "overflow": []
+    },
+    {
+      "screen": "meta",
+      "images": 47,
+      "broken": [],
+      "overflow": []
+    },
+    {
+      "screen": "ayuda_partida",
+      "images": 65,
+      "broken": [],
+      "overflow": []
+    }
+  ],
+  "errors": []
+}

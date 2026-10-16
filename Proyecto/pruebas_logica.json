@@ -1,0 +1,29 @@
+{
+  "pruebas": [
+    "inicio limpio y presentación",
+    "ESC pausa y reanuda una sola vez; reloj detenido",
+    "botón de pausa sin doble alternancia",
+    "moneda puntúa y desaparece una sola vez",
+    "daño, reaparición e invulnerabilidad",
+    "punto de control seguro",
+    "derrota por tres daños sin destruir al jugador",
+    "reintentar restaura vidas, monedas y tiempo de juego",
+    "derrota por tiempo",
+    "victoria sin exigir monedas y bonus aplicado una sola vez",
+    "tiempo agotado tiene prioridad sobre victoria simultánea",
+    "confirmación de menú conserva el estado previo al cancelar y restaura escala al salir",
+    "ayuda de partida desde pausa, regreso con botón y ESC, reloj detenido",
+    "menú dentro del panel de pausa y cancelación segura",
+    "moneda ya solapada durante presentación se recoge al habilitar controles",
+    "moneda no puntúa durante pausa y sí al reanudar",
+    "saltar conserva la última dirección y no cambia la colisión del controlador",
+    "ayuda y créditos abren y cierran",
+    "referencias Audio Play registradas en sounds-folder/music-folder nativos y archivos presentes",
+    "recursos y fotogramas existentes; visuales sin colisión; controlador nunca destruido ni animado",
+    "rótulos Luckiest Guy, texto dentro del área y márgenes de botones",
+    "fuente y licencia incorporadas; cada título y botón solicita CSS local sin Internet"
+  ],
+  "total": 22,
+  "resultado": "PASS",
+  "alcance": "Modelo de los eventos XML generados y comprobación estructural. NO ejecuta física ni renderiza el motor de Construct 2."
+}

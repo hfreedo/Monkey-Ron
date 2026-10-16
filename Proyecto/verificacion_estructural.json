@@ -1,0 +1,77 @@
+{
+  "origen": "C:\\Users\\Soul Hoshi\\Documents\\ChatGPT\\PAL - Desarrollo de videojuegos\\Entregas\\Monkey_Ron_arte_v1\\Monkey_Ron_menu_v1.capx",
+  "sha256_origen": "95738e63c7bd5279f6907f434dfe02369cac04756de97ece7db64412fa259971",
+  "entrega": "C:\\Users\\Soul Hoshi\\Documents\\ChatGPT\\PAL - Desarrollo de videojuegos\\Entregas\\Monkey_Ron_demo_v5\\Monkey_Ron_demo_v5.capx",
+  "estados": {
+    "0": "Jugando",
+    "1": "Pausa",
+    "2": "Victoria",
+    "3": "Derrota",
+    "4": "Confirmar menú",
+    "5": "Inicio",
+    "6": "Ayuda de partida"
+  },
+  "reglas": {
+    "vidas": 3,
+    "tiempo_s": 120,
+    "monedas": 7,
+    "puntos_por_moneda": 100,
+    "bonus_por_segundo": 5,
+    "invulnerabilidad_s": 1.5,
+    "meta_x": 5632
+  },
+  "poses": {
+    "quieto": {
+      "dimensiones": [
+        887,
+        1774
+      ],
+      "origen": [
+        0.5287485907553551,
+        0.9673055242390078
+      ],
+      "tamano_mundo": [
+        123.7931464174455,
+        247.58629283489097
+      ]
+    },
+    "correr": {
+      "dimensiones": [
+        887,
+        1774
+      ],
+      "origen": [
+        0.49943630214205187,
+        0.8990980834272829
+      ],
+      "tamano_mundo": [
+        145.6656891495601,
+        291.3313782991202
+      ]
+    },
+    "saltar": {
+      "dimensiones": [
+        887,
+        1774
+      ],
+      "origen": [
+        0.5045095828635852,
+        0.910935738444194
+      ],
+      "tamano_mundo": [
+        135.34604904632153,
+        270.69209809264305
+      ]
+    }
+  },
+  "terreno_visual_instancias": 274,
+  "eventos_juego": 74,
+  "eventos_menu": 13,
+  "comprobaciones": {
+    "zip_xml": true,
+    "parametros_fisicos_conservados": true,
+    "fondo_personaje_titulo_menu_conservados": true,
+    "origen_no_modificado": true
+  },
+  "limite": "Verificación estructural. Pendiente abrir, ejecutar y exportar en Construct 2."
+}

@@ -1,7 +1,7 @@
 # 🐵 Monkey Ron — Aventura en la Escuela (Monkey Games)
 
 <p align="center">
-  <img src="Portadas/Portada_Monkey_Ron_Monkey_Games_PC_Demo_v1.png" alt="Portada Monkey Ron - Monkey Games" width="760">
+  <img src="Portadas/Portada_Monkey_Ron_Retail_PC_Demo_v2.png" alt="Portada Monkey Ron - Monkey Games Retail" width="760">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 👋 ¡Bienvenidos al repositorio oficial de Monkey Ron!
 
-Este repositorio contiene el proyecto actualizado de **Monkey Ron** (desarrollado en **Construct 2** por el equipo **Monkey Games** / Team Axel), junto con todos sus recursos gráficos, sonidos, vistas previas de pantallas y los materiales listos para imprimir para la feria/exposición escolar.
+Este repositorio contiene el proyecto actualizado de **Monkey Ron** (desarrollado en **Construct 2** por el equipo **Monkey Games** / Team Axel), junto con todos sus recursos gráficos, sonidos, vistas previas de pantallas y los **materiales listos para imprimir para la feria/exposición escolar (portanombres, stickers de colección completa v2, manuales de juego v3, credenciales y portadas retail)**.
 
 ---
 
@@ -29,7 +29,7 @@ Tienes **tres formas sencillas** de descargar los archivos según lo que necesit
    - Haz clic en el botón verde superior **🎮 Descargar Proyecto Construct 2 (`Monkey_Ron_demo_v5.capx`)** o entra en [`Proyecto/Monkey_Ron_demo_v5.capx`](Proyecto/Monkey_Ron_demo_v5.capx) y pulsa **Download raw file**.
 2. **Quiero el paquete completo de la entrega (`.zip` con proyecto + imágenes + vistas):**
    - Haz clic en el botón azul **📦 Descargar Paquete Completo (`Monkey_Ron_actual.zip`)** o visita la sección [**Releases (Lanzamientos)**](https://github.com/hfreedo/Monkey-Ron/releases).
-3. **Quiero descargar todo el repositorio (incluyendo manuales, stickers, portanombres y versiones originales):**
+3. **Quiero descargar todo el repositorio (incluyendo manuales v3, stickers coleccionables, portanombres y versiones originales):**
    - Arriba a la derecha en esta página de GitHub, haz clic en el botón verde **`<> Code`** y selecciona **`Download ZIP`**. Extrae el archivo `.zip` en tu computadora.
 
 > [!IMPORTANT]
@@ -78,16 +78,6 @@ Si vas a revisar o modificar el proyecto en **Construct 2**, ten en cuenta cómo
 | **Audio corregido** | Los 6 efectos de sonido (`salto`, `aterrizaje`, `moneda`, `daño`, `victoria`, `derrota`) están registrados en `sounds-folder` en formatos WAV, OGG y M4A listos para Construct 2. |
 | **Tipografía** | Los botones usan la fuente temática **Luckiest Guy** sobre pizarra vacía (`boton_pizarra_vacio.png`), permitiendo editar los textos directamente en Construct 2. |
 
-### 📋 Próximos pasos recomendados para el equipo en clase
-1. **Abrir y probar en Construct 2:** Recorrer `Menú → Partida → Pausa → Cómo jugar → Victoria / Derrota` para verificar todos los saltos y monedas.
-2. **Completar los Créditos:** Escribir los nombres reales de los integrantes del equipo en el panel de Créditos.
-3. **Ajustar dificultad si hace falta:** Probar con compañeros y ajustar la posición de monedas o la variable `TiempoInicial` si el recorrido resulta muy fácil o muy difícil.
-
-Para más detalles técnicos, consulta:
-- 📄 [`Proyecto/PLAN_Y_CAMBIOS.md`](Proyecto/PLAN_Y_CAMBIOS.md) — Explicación detallada de cada mejora y reglas.
-- 📄 [`Proyecto/REEVALUACION_v5.md`](Proyecto/REEVALUACION_v5.md) — Estado de cada sistema y lista de verificación.
-- 📄 [`Proyecto/TIPOGRAFIA_Y_ENCUADRE.md`](Proyecto/TIPOGRAFIA_Y_ENCUADRE.md) — Fuentes y tamaños de texto.
-
 ---
 
 ## 🖨️ 5. Materiales Imprimibles para la Exposición (`Imprimibles_Monkey_Games/`)
@@ -97,10 +87,10 @@ Todos los materiales gráficos del stand de **Monkey Games** están listos en fo
 | Material | Archivo PDF listo para imprimir (A4) | Vista previa / Instrucciones |
 |---|---|---|
 | **1. Portanombre de Mesa (v4)** | [`Portanombre_Monkey_Ron_Monkey_Games_A4_v4.pdf`](Imprimibles_Monkey_Games/01_Portanombres/Imprimir/Portanombre_Monkey_Ron_Monkey_Games_A4_v4.pdf) | Plegable doble cara con espacio para el nombre del alumno. [Ver vista previa](Imprimibles_Monkey_Games/01_Portanombres/Vista_previa/Cara_Monkey_Ron.png) |
-| **2. Plancha de Stickers (v1)** | [`Plancha_Stickers_Monkey_Games_A4_v1.pdf`](Imprimibles_Monkey_Games/02_Stickers/Imprimir/Plancha_Stickers_Monkey_Games_A4_v1.pdf) | 9 stickers por hoja A4 (Insignia, Moneda y Ron). [Leer guía](Imprimibles_Monkey_Games/02_Stickers/LEEME.md) |
-| **3. Manual de Juego (v2)** | [`Manual_Monkey_Ron_Cuadernillo_A4_v2.pdf`](Imprimibles_Monkey_Games/03_Manual_de_Juego/Imprimir/Manual_Monkey_Ron_Cuadernillo_A4_v2.pdf) · [Versión Digital](Imprimibles_Monkey_Games/03_Manual_de_Juego/Digital/Manual_Monkey_Ron_12x18_v2.pdf) | Librito de 4 páginas (12 × 18 cm) con controles, objetivo y consejos. [Leer guía de plegado](Imprimibles_Monkey_Games/03_Manual_de_Juego/LEEME.md) |
-| **4. Credenciales del Equipo (v1)** | [`Credencial_Monkey_Games_90x120_v1_A4.pdf`](Imprimibles_Monkey_Games/04_Credenciales/Imprimir/Credencial_Monkey_Games_90x120_v1_A4.pdf) | 4 credenciales de 9 × 12 cm por hoja A4 con nombre y rol. [Leer guía](Imprimibles_Monkey_Games/04_Credenciales/LEEME.md) |
-| **5. Portada Promocional** | [`Portada_Monkey_Ron_Monkey_Games_12x18_A4_v1.pdf`](Imprimibles_Monkey_Games/05_Portada_Imprimible/Imprimir/Portada_Monkey_Ron_Monkey_Games_12x18_A4_v1.pdf) | Portada lista para recortar a 12 × 18 cm. [Leer guía](Imprimibles_Monkey_Games/05_Portada_Imprimible/LEEME.md) |
+| **2. Colección Completa de Stickers (v2)** | [`Stickers_Monkey_Games_Coleccion_completa_A4_v2.pdf`](Imprimibles_Monkey_Games/02_Stickers/Imprimir/Stickers_Monkey_Games_Coleccion_completa_A4_v2.pdf) · [Plancha v1](Imprimibles_Monkey_Games/02_Stickers/Imprimir/Plancha_Stickers_Monkey_Games_A4_v1.pdf) | **6 motivos nuevos:** Insignia, Moneda, Ron, Ron con Bandera, Pulgar Arriba y Señalando (2 hojas A4). [Leer guía](Imprimibles_Monkey_Games/02_Stickers/LEEME.md) |
+| **3. Manual de Juego (v3)** | [`Manual_Monkey_Ron_Cuadernillo_A4_v3.pdf`](Imprimibles_Monkey_Games/03_Manual_de_Juego/Imprimir/Manual_Monkey_Ron_Cuadernillo_A4_v3.pdf) · [Versión Digital v3](Imprimibles_Monkey_Games/03_Manual_de_Juego/Digital/Manual_Monkey_Ron_12x18_v3.pdf) | Cuadernillo de 4 páginas (12 × 18 cm) con avatares ilustrados, controles, objetivo y consejos. [Leer guía de plegado](Imprimibles_Monkey_Games/03_Manual_de_Juego/LEEME.md) |
+| **4. Credenciales del Equipo (v1)** | [`Credencial_Monkey_Games_90x120_v1_A4.pdf`](Imprimibles_Monkey_Games/04_Credenciales/Imprimir/Credencial_Monkey_Games_90x120_v1_A4.pdf) | 4 credenciales de 9 × 12 cm por hoja A4 con nombre y rol para completar. [Leer guía](Imprimibles_Monkey_Games/04_Credenciales/LEEME.md) |
+| **5. Portada Retail y Cuadro (v2)** | [`Portada_Monkey_Ron_Monkey_Games_12x18_A4_v2.pdf`](Imprimibles_Monkey_Games/05_Portada_Imprimible/Imprimir/Portada_Monkey_Ron_Monkey_Games_12x18_A4_v2.pdf) · [Portada Digital v2](Portadas/Portada_Monkey_Ron_Retail_PC_Demo_v2.png) | Carátula retail para caja o exhibidor de 12 × 18 cm. [Leer guía](Imprimibles_Monkey_Games/05_Portada_Imprimible/LEEME.md) |
 
 ---
 
@@ -118,11 +108,11 @@ Monkey-Ron/
 │   ├── monkeyronn.capx               # Proyecto original base
 │   └── monkeyron_con_menu.capx       # Primera versión con menú integrado
 ├── Menu_Animado/                     # Video MP4 y render de referencia del menú
-├── Portadas/                         # Ilustraciones de portada en alta resolución
+├── Portadas/                         # Portada Retail v2 y artes promocionales
 └── Imprimibles_Monkey_Games/         # PDFs A4 y editables SVG para el stand escolar
-    ├── 01_Portanombres/
-    ├── 02_Stickers/
-    ├── 03_Manual_de_Juego/
-    ├── 04_Credenciales/
-    └── 05_Portada_Imprimible/
+    ├── 01_Portanombres/              # Carteles de mesa plegables A4 (v4)
+    ├── 02_Stickers/                  # Plancha de stickers coleccionables v2 (6 motivos)
+    ├── 03_Manual_de_Juego/           # Manual librito A4 v3 con avatares
+    ├── 04_Credenciales/              # Credenciales personales para el equipo
+    └── 05_Portada_Imprimible/        # Carátula imprimible 12x18 cm A4 (v2)
 ```

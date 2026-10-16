@@ -2,6 +2,12 @@
 
 Primera colección de tres motivos: personaje con título, insignia del equipo y moneda de cuatro puntas inspirada en el coleccionable del juego.
 
+## Colección completa vigente
+
+`Imprimir/Stickers_Monkey_Games_Coleccion_completa_A4_v2.pdf` reúne los seis motivos en dos páginas A4: tres copias de cada uno, dieciocho stickers en total. La segunda página contiene las nuevas poses del manual: señalando, con bandera y con pulgar arriba. Estas tres piezas se colocan dentro de un área máxima de 58 × 65 mm, conservando sus proporciones.
+
+Imprimir ambas páginas por una sola cara, al 100 %, sin ajustar y sin doble cara. Los seis PNG transparentes están en Individuales. La plancha v1 de una página se conserva como antecedente. Los nuevos PNG son adaptaciones realizadas con el generador integrado; los prompts están en Produccion/Prompts_nuevas_poses.md.
+
 ## Archivos
 
 - Individuales: tres PNG RGBA con fondo transparente y borde blanco, conservados sin modificaciones posteriores a su generación.

@@ -94,10 +94,27 @@ Todos los materiales gráficos del stand de **Monkey Games** están listos en fo
 
 ---
 
+## 📚 Documentación del equipo en Office
+
+Los tres documentos editables están en [`Documentacion/`](Documentacion/):
+
+| Archivo | Contenido | Descarga directa |
+|---|---|---|
+| [GDD Monkey Ron.docx](Documentacion/GDD%20Monkey%20Ron.docx) | Nueve páginas ilustradas con reglas, organización, responsabilidades, bitácora y pruebas pendientes. | [Descargar Word](https://github.com/hfreedo/Monkey-Ron/raw/refs/heads/main/Documentacion/GDD%20Monkey%20Ron.docx) |
+| [Inventario Monkey Ron.xlsx](Documentacion/Inventario%20Monkey%20Ron.xlsx) | 43 recursos agrupados, 76 miniaturas y seis efectos de sonido originales incrustados. | [Descargar Excel](https://github.com/hfreedo/Monkey-Ron/raw/refs/heads/main/Documentacion/Inventario%20Monkey%20Ron.xlsx) |
+| [Guía Monkey Ron.pptx](Documentacion/Gu%C3%ADa%20Monkey%20Ron.pptx) | Diez diapositivas con controles, consejos y enlaces para recorrer la guía. | [Descargar PowerPoint](https://github.com/hfreedo/Monkey-Ron/raw/refs/heads/main/Documentacion/Gu%C3%ADa%20Monkey%20Ron.pptx) |
+
+Para escuchar los audios, descargar el inventario, abrirlo en Excel de escritorio para Windows y hacer doble clic en el icono. La reproducción usa el programa asociado a M4A del equipo. Para usar los enlaces de la guía, iniciar el modo presentación en PowerPoint.
+
+El GDD usa un tono de trabajo del grupo e incluye campos para completar integrantes, responsables y créditos. Los documentos muestran el uso de Construct 2 para crear el juego y de Office para organizarlo y explicarlo. También se incluyen al descargar el repositorio con **Code → Download ZIP**.
+
+---
+
 ## 📂 6. Estructura de carpetas del repositorio
 
 ```text
 Monkey-Ron/
+├── Documentacion/                   # GDD Word, inventario Excel y guía PowerPoint
 ├── Proyecto/                         # Versión vigente mejorada (Demo v5)
 │   ├── Monkey_Ron_demo_v5.capx       # ⭐ Archivo principal para abrir en Construct 2
 │   ├── Assets/                       # Sprites, fondos, sonidos y fuente Luckiest Guy

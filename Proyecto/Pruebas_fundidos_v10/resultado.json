@@ -1,0 +1,84 @@
+{
+  "engine": "Vista previa real de Construct 2 en Edge",
+  "controlled_goal": true,
+  "full_level_playthrough": false,
+  "checks": [
+    {
+      "name": "Partida sin cubierta ni video",
+      "pass": true
+    },
+    {
+      "name": "Negro progresa con juego congelado",
+      "pass": true
+    },
+    {
+      "name": "Video espera al negro completo",
+      "pass": true
+    },
+    {
+      "name": "Se revela video decodificado bajo negro",
+      "pass": true
+    },
+    {
+      "name": "Video visible con audio sin cubierta",
+      "pass": true
+    },
+    {
+      "name": "Blanco aparece antes de terminar video",
+      "pass": true
+    },
+    {
+      "name": "Audio baja con el blanco",
+      "pass": true
+    },
+    {
+      "name": "Blanco se retira sobre el juego",
+      "pass": true
+    },
+    {
+      "name": "Resultado al finalizar transición",
+      "pass": true
+    },
+    {
+      "name": "Bonus y tiempo conservados",
+      "pass": true
+    },
+    {
+      "name": "Reintentar limpia las transiciones",
+      "pass": true
+    },
+    {
+      "name": "Nueva cinemática recupera volumen",
+      "pass": true
+    },
+    {
+      "name": "ESC repetido termina sin reiniciar blanco",
+      "pass": true
+    },
+    {
+      "name": "Menú disponible tras fundidos",
+      "pass": true
+    },
+    {
+      "name": "Saltar con fundido: Enter",
+      "pass": true
+    },
+    {
+      "name": "Saltar con fundido: Space",
+      "pass": true
+    },
+    {
+      "name": "Saltar con fundido: button",
+      "pass": true
+    },
+    {
+      "name": "Error/espera permite salir con blanco",
+      "pass": true
+    },
+    {
+      "name": "Sin errores JavaScript",
+      "pass": true
+    }
+  ],
+  "errors": []
+}

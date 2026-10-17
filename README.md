@@ -1,15 +1,25 @@
 # 🐵 Monkey Ron — Aventura en la Escuela (Monkey Games)
 
+## Versión vigente: v10.0
+
+Cinemática final con fundidos a negro y blanco y salida segura al resultado.
+
+- **Abrir en Construct 2:** [`Proyecto/Monkey_Ron_demo_v10.capx`](Proyecto/Monkey_Ron_demo_v10.capx).
+- **Descargar:** [CAPX](https://github.com/hfreedo/Monkey-Ron/releases/download/v10.0/Monkey_Ron_demo_v10.capx) · [paquete de proyecto y recursos](https://github.com/hfreedo/Monkey-Ron/releases/download/v10.0/Monkey_Ron_actual_v10.zip).
+- **Historial:** [CHANGELOG.md](CHANGELOG.md). Las versiones anteriores se conservan en Git y Releases.
+- **Pruebas y límites:** [Proyecto/VALIDACION.md](Proyecto/VALIDACION.md). Los recursos de etapas anteriores conservan sus nombres originales.
+
+
 <p align="center">
   <img src="Portadas/Portada_Monkey_Ron_Retail_PC_Demo_v2.png" alt="Portada Monkey Ron - Monkey Games Retail" width="760">
 </p>
 
 <p align="center">
-  <a href="https://github.com/hfreedo/Monkey-Ron/releases/latest/download/Monkey_Ron_demo_v8.capx">
-    <img src="https://img.shields.io/badge/🎮_Descargar_Proyecto_Construct_2-Monkey__Ron__demo__v8.capx-2ea44f?style=for-the-badge" alt="Descargar CAPX v8">
+  <a href="https://github.com/hfreedo/Monkey-Ron/releases/latest/download/Monkey_Ron_demo_v10.capx">
+    <img src="https://img.shields.io/badge/🎮_Descargar_Proyecto_Construct_2-Monkey__Ron__demo__v10.capx-2ea44f?style=for-the-badge" alt="Descargar CAPX v10">
   </a>
-  <a href="https://github.com/hfreedo/Monkey-Ron/releases/latest/download/Monkey_Ron_actual_v8.zip">
-    <img src="https://img.shields.io/badge/📦_Descargar_Paquete_Completo-Monkey__Ron__v8.zip-0969da?style=for-the-badge" alt="Descargar ZIP Completo">
+  <a href="https://github.com/hfreedo/Monkey-Ron/releases/latest/download/Monkey_Ron_actual_v10.zip">
+    <img src="https://img.shields.io/badge/📦_Descargar_Paquete_Completo-Monkey__Ron__v10.zip-0969da?style=for-the-badge" alt="Descargar ZIP Completo">
   </a>
 </p>
 
@@ -17,7 +27,7 @@
 
 ## 👋 ¡Bienvenidos al repositorio oficial de Monkey Ron!
 
-Este repositorio contiene la versión más reciente del proyecto **Monkey Ron** (desarrollado en **Construct 2** por el equipo **Monkey Games** / Team Axel): la **Demo v8**, que incorpora el **ciclo completo de animaciones cuadro por cuadro del personaje Ron** (quieto, correr, saltar y agacharse), nuevos enemigos, física calibrada, menús con pausa y la colección completa de materiales imprimibles listos para el stand escolar.
+Este repositorio contiene la versión más reciente del proyecto **Monkey Ron** (desarrollado en **Construct 2** por el equipo **Monkey Games** / Team Axel): la **Demo v10**, que incorpora el **ciclo completo de animaciones cuadro por cuadro del personaje Ron** (quieto, correr, saltar y agacharse), nuevos enemigos, física calibrada, menús con pausa y la colección completa de materiales imprimibles listos para el stand escolar.
 
 ---
 
@@ -26,14 +36,14 @@ Este repositorio contiene la versión más reciente del proyecto **Monkey Ron** 
 Tienes **tres opciones** según lo que necesites:
 
 1. **Quiero abrir directamente la versión más nueva en Construct 2 (⭐ Recomendado):**
-   - Haz clic en el botón verde superior **🎮 Descargar Proyecto Construct 2 (`Monkey_Ron_demo_v8.capx`)** o entra en [`Proyecto/Monkey_Ron_demo_v8.capx`](Proyecto/Monkey_Ron_demo_v8.capx) y pulsa **Download raw file**.
+   - Haz clic en el botón verde superior **🎮 Descargar Proyecto Construct 2 (`Monkey_Ron_demo_v10.capx`)** o entra en [`Proyecto/Monkey_Ron_demo_v10.capx`](Proyecto/Monkey_Ron_demo_v10.capx) y pulsa **Download raw file**.
 2. **Quiero descargar el paquete completo con proyecto y assets:**
    - Haz clic en el botón azul **📦 Descargar Paquete Completo** o visita la sección [**Releases (Lanzamientos)**](https://github.com/hfreedo/Monkey-Ron/releases).
 3. **Quiero descargar todo el repositorio (imprimibles, manuales v3, stickers, GIFs y versiones anteriores):**
    - Arriba a la derecha en esta página de GitHub, haz clic en el botón verde **`<> Code`** y selecciona **`Download ZIP`**. Luego descomprime el archivo en tu computadora.
 
 > [!IMPORTANT]
-> **Consejo antes de editar en Construct 2:** Abre `Monkey_Ron_demo_v8.capx` y guárdalo como una copia (por ejemplo, `Monkey_Ron_demo_v8_mis_pruebas.capx`) antes de realizar cambios.
+> **Consejo antes de editar en Construct 2:** Abre `Monkey_Ron_demo_v10.capx` y guárdalo como una copia (por ejemplo, `Monkey_Ron_demo_v10_mis_pruebas.capx`) antes de realizar cambios.
 
 ---
 
@@ -111,7 +121,7 @@ Todos los archivos listos para imprimir en **PDF A4** al 100 %:
 ```text
 Monkey-Ron/
 ├── Proyecto/
-│   ├── Monkey_Ron_demo_v8.capx       # ⭐ PROYECTO PRINCIPAL (Demo v8 con animaciones y agacharse)
+│   ├── Monkey_Ron_demo_v10.capx       # ⭐ PROYECTO PRINCIPAL (Demo v8 con animaciones y agacharse)
 │   ├── Monkey_Ron_demo_v5.capx       # Versión anterior de referencia
 │   ├── Assets/                       # Biblioteca de Sprites, Animaciones v8, Enemigos y Fuentes
 │   │   ├── Monkey_Ron/Animaciones_GIF/ # GIFs originales (correr, quieto, salto, agacharse, examen)

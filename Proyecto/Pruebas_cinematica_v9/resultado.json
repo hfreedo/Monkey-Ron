@@ -1,0 +1,64 @@
+{
+  "engine": "Vista previa real de Construct 2 en Edge",
+  "controlled_goal": true,
+  "full_level_playthrough": false,
+  "checks": [
+    {
+      "name": "Video no se reproduce durante la partida",
+      "pass": true
+    },
+    {
+      "name": "Meta inicia video con sonido y congela partida",
+      "pass": true
+    },
+    {
+      "name": "Puntos y tiempo no cambian durante video",
+      "pass": true
+    },
+    {
+      "name": "Final natural muestra victoria y detiene video",
+      "pass": true
+    },
+    {
+      "name": "Bonus se acredita una sola vez",
+      "pass": true
+    },
+    {
+      "name": "Reintentar reinicia puntos y oculta video",
+      "pass": true
+    },
+    {
+      "name": "Nueva partida reproduce desde el principio",
+      "pass": true
+    },
+    {
+      "name": "ESC salta a resultado sin abrir pausa",
+      "pass": true
+    },
+    {
+      "name": "Resultado vuelve al menú",
+      "pass": true
+    },
+    {
+      "name": "Saltar con Enter",
+      "pass": true
+    },
+    {
+      "name": "Saltar con Space",
+      "pass": true
+    },
+    {
+      "name": "Saltar con button",
+      "pass": true
+    },
+    {
+      "name": "Espera agotada no bloquea la victoria",
+      "pass": true
+    },
+    {
+      "name": "Sin errores JavaScript",
+      "pass": true
+    }
+  ],
+  "errors": []
+}

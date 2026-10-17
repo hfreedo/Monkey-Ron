@@ -1,0 +1,5 @@
+Sprites originales del personaje visible RonVisual, extraídos sin modificar del CAPX.
+Ron_quieto.png: referencia principal. Ron_correr.png y Ron_saltar.png: otras poses.
+Tamaño original: 887 x 1774 px. Conservá fondo transparente, lienzo, escala y posición de los pies.
+Para mejorar el arte, usá la imagen como referencia y mantené la identidad, silueta y proporciones.
+Las futuras imágenes mejoradas todavía no están integradas en Construct 2.

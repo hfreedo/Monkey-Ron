@@ -1,0 +1,121 @@
+{
+  "target": "C:\\Users\\Soul Hoshi\\Documents\\ChatGPT\\PAL - Desarrollo de videojuegos\\Entregas\\Actuales\\Monkey_Ron\\Proyecto\\Monkey_Ron_demo_v8.capx",
+  "animations": {
+    "quieto": {
+      "input": "C:\\Users\\Soul Hoshi\\Documents\\ChatGPT\\PAL - Desarrollo de videojuegos\\assets animados\\iddle ron.gif",
+      "frames": 8,
+      "durations_ms": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150
+      ],
+      "feet": [
+        0.96875,
+        0.96875,
+        0.96875,
+        0.96875,
+        0.96875,
+        0.96875,
+        0.96875,
+        0.96875
+      ],
+      "loop": true
+    },
+    "correr": {
+      "input": "C:\\Users\\Soul Hoshi\\Documents\\ChatGPT\\PAL - Desarrollo de videojuegos\\assets animados\\run ron.gif",
+      "frames": 8,
+      "durations_ms": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150
+      ],
+      "feet": [
+        0.90234375,
+        0.90625,
+        0.90625,
+        0.91015625,
+        0.89453125,
+        0.89453125,
+        0.91015625,
+        0.91015625
+      ],
+      "loop": true
+    },
+    "saltar": {
+      "input": "C:\\Users\\Soul Hoshi\\Documents\\ChatGPT\\PAL - Desarrollo de videojuegos\\assets animados\\salto ron.gif",
+      "frames": 6,
+      "durations_ms": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        150
+      ],
+      "feet": [
+        0.96875,
+        0.96875,
+        0.96875,
+        0.94140625,
+        0.78515625,
+        0.83984375
+      ],
+      "loop": false
+    },
+    "agacharse": {
+      "input": "C:\\Users\\Soul Hoshi\\Documents\\ChatGPT\\PAL - Desarrollo de videojuegos\\assets animados\\agacha ron.gif",
+      "frames": 6,
+      "durations_ms": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        150
+      ],
+      "feet": [
+        0.96875,
+        0.96875,
+        0.96875,
+        0.9609375,
+        0.9609375,
+        0.9609375
+      ],
+      "loop": false
+    }
+  },
+  "render_size": 247.17241379310346,
+  "collider_width": 64,
+  "standing_height": 204,
+  "crouch_height": 160,
+  "crouch_key": "ArrowDown (40)",
+  "clearance_solids": [
+    "suelo",
+    "Suelo1",
+    "Sprite3",
+    "Sprite5",
+    "Suelo2",
+    "Suelo3",
+    "Suelo4",
+    "Suelo5",
+    "Suelo6",
+    "Suelo7",
+    "Suelo8",
+    "Suelo9"
+  ],
+  "feet_position_preserved": true,
+  "clearance_cases_verified": true,
+  "zip_xml_animation_resources_verified": true,
+  "construct_open": "verified: Construct 2 opened Monkey_Ron_demo_v8.capx - Layout 1; aaron and RonVisual loaded without error",
+  "gameplay_tested": false
+}

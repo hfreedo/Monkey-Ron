@@ -1,0 +1,7 @@
+Ron v8: quieto/correr cíclicos; salto y agacharse se reproducen una vez y sostienen su último fotograma.
+Controles conservados: flechas izquierda/derecha y salto del comportamiento Platform.
+Agacharse: mantener flecha abajo estando en el suelo. Detiene el movimiento y el salto.
+Al soltar, se levanta únicamente si hay espacio sobre la cabeza.
+Colisión física: aaron invisible, rectángulo estable 64 x 204; agachado 64 x 160.
+RonVisual muestra el arte sin colisión duplicada. Cada fotograma conserva la base en los pies.
+Verificación ZIP/XML y geometría completada; consultar JSON para estado de pruebas del motor.

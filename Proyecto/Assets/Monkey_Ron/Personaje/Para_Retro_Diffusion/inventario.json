@@ -1,0 +1,32 @@
+[
+  {
+    "state": "quieto",
+    "file": "Ron_quieto.png",
+    "source": "Animations/RonVisual/quieto/000.png",
+    "size": [
+      887,
+      1774
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "state": "correr",
+    "file": "Ron_correr.png",
+    "source": "Animations/RonVisual/correr/000.png",
+    "size": [
+      887,
+      1774
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "state": "saltar",
+    "file": "Ron_saltar.png",
+    "source": "Animations/RonVisual/saltar/000.png",
+    "size": [
+      887,
+      1774
+    ],
+    "mode": "RGBA"
+  }
+]
